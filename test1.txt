@@ -1,0 +1,10 @@
+ Volume in drive C is OS
+ Volume Serial Number is FC90-EBF3
+
+ Directory of C:\Users\Kirtiranjan.Sahoo\Desktop\MyProject
+
+10/04/2017  02:14 PM    <DIR>          .
+10/04/2017  02:14 PM    <DIR>          ..
+10/04/2017  02:14 PM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  329,489,600,512 bytes free
